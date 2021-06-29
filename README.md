@@ -10,4 +10,4 @@ A python tool to convert binary text to ASCII characters
 
 With this tool you can convert binary characters in two ways</br>
 1)By Typing The Binary Character</br>
-2)By Typing The Path Of File Inclusing Binary Characters</br>
+2)By Typing The Path Of File Including Binary Characters</br>
