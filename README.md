@@ -7,3 +7,7 @@ A python tool to convert binary text to ASCII characters
 ```1) git clone https://github.com/rockzy77/binary-word-converter```</br>
 ```2) cd binary-word-converter```</br>
 ```3) python3 btw.py```</br>
+
+With this tool you can convert binary characters in two ways
+1)By Typing The Binary Character
+2)By Typing The Path Of File Inclusing Binary Characters
